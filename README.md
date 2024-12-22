@@ -70,5 +70,4 @@ Me chamo Ariane Valéria, tenho 17 anos. Estou fazendo o ensino médio no IFRN, 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianevaleira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
    />
-
 </p>
