@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ariane Valéria, tenho 17 anos e estou fazendo o curso técnico de Informática para Internet no IFRN.
+Me chamo Ariane Valéria, tenho 18 anos e estou fazendo o curso técnico de Informática para Internet no IFRN.
 
 Atualmente, estou me aprofundando no framework Flask e em JavaScript.
 
