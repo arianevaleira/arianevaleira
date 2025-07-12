@@ -1,4 +1,4 @@
-# 🌌Ariane Valéria
+# Ariane Valéria
 
 **`Desenvolvedora FullStack`**
 
@@ -10,18 +10,21 @@ Atualmente, estou me aprofundando no framework Flask e em JavaScript.
 
 ---
 
-<p align="center">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
-</p>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arianevaleira&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F&bg_color=1C1C1C" alt="Ariane Valéria github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianevaleira&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=1C1C1C" />
+<div align="center">
+  <div align="center">
+    <img
+      width="49%" height="195px"
+      src="https://github-readme-stats.vercel.app/api?username=arianevaleira&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=7DD2FF&bg_color=1C1C1C"
+      alt="Ariane Valéria – GitHub Stats"
+    />
+    <img
+      width="41%" height="195px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianevaleira&layout=compact&hide_border=true&title_color=FF69B4&text_color=7DD2FF&bg_color=1C1C1C"
+      alt="Ariane Valéria – Most Used Languages"
+    />
+  </div>
 </div>
 
-<p align="center">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
-</p>
 
 ### Principais habilidades:
 <div align="left">
