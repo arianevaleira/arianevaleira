@@ -37,6 +37,3 @@ Desenvolvo interfaces web focadas em usabilidade, responsividade e código bem e
 - UI development with React
 - CSS animations and transitions
 - Component-based interfaces and reusable layouts
-
-
-Currently focusing on React, UI animations and front-end best practices.
